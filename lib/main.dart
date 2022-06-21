@@ -1,6 +1,9 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
+/** 2022-06-21 Jongdroid
+ *  Instagram Clone Project
+ */
 
 void main() {
   runApp(const MyApp());
